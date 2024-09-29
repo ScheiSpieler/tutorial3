@@ -1,4 +1,4 @@
-# Git Tutorial 
+# Git Tutorial
 
 This tutorial operates under the following assumptions
 
